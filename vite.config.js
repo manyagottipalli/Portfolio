@@ -8,6 +8,6 @@ export default defineConfig({
   server: {
     port: process.env.PORT || 3000, // Use Render's port or default to 3000
     host: '0.0.0.0', // Ensure it binds to all IPs
-    allowedHosts: 'all',
+    allowedHosts: ['portfolio-1-n1j0.onrender.com'],
   }
 });
