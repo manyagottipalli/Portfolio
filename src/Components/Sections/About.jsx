@@ -86,19 +86,22 @@ export const About = () => {
               <div className="space-y-4 text-gray-300">
                 <div>
                   <h4 className="font-semibold">
-                  Zerodha Clone (MERN Stack) 
-                  Built a full-fledged trading platform using React.js, Node.js, Express.js, and MongoDB
-Implemented user authentication (login, signup, logout) using JWT
-Developed a dashboard for users to track stocks, transactions, and trends
-Optimized API calls for faster real-time data updates
+                  WordPress Development Intern
+Gao Tech | [Month Year – Month Year]
+During my internship as a WordPress Development Intern at Gao Tech, 
+I worked on designing and customizing websites using WordPress and Elementor, 
+creating responsive and user-friendly layouts. I contributed to enhancing website performance, 
+SEO optimization, and mobile compatibility to improve overall user experience.
+ My role also involved integrating plugins, forms, and third-party tools, 
+ as well as adding custom CSS and jQuery for interactive features. Additionally, I collaborated with the development team to troubleshoot issues and ensure timely delivery of client projects.
+
+
                     
                   </h4>
                   <br></br>
                   <p>
                     <strong>
-                  Airbnb Clone (Full-Stack Web App)
-                  Developed a booking platform using MERN stack
-Built secure authentication & authorization
+                  
 </strong>
                   </p>
                 </div>

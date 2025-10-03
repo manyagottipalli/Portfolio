@@ -14,7 +14,7 @@ export const Projects = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {/* Airbnb Clone */}
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-              <h3 className="text-xl font-bold mb-2">Airbnb Clone</h3>
+              <h3 className="text-xl font-bold mb-2">Hotel Management System</h3>
               <p className="text-gray-400 mb-4">
                 A full-stack booking platform with secure authentication and dynamic property listings.
               </p>
@@ -34,9 +34,9 @@ export const Projects = () => {
 
             {/* Zerodha Clone */}
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-              <h3 className="text-xl font-bold mb-2">Zerodha Clone</h3>
+              <h3 className="text-xl font-bold mb-2">Mini gpt</h3>
               <p className="text-gray-400 mb-4">
-                A trading platform with real-time stock data, authentication, and user dashboards.
+                Your mini GPT project is a MERN stack-based chatbot integrated with Gemini API, featuring secure user authentication via Clerk and support for voice recognition. It also allows users to save, view, and delete chat histories, with conversations stored in MongoDB.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["MERN Stack", "JWT", "WebSockets", "Chart.js"].map((tech, key) => (
