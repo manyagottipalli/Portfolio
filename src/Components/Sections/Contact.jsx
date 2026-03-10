@@ -35,10 +35,10 @@ export const Contact = () => {
           </h2>
 
           <p className="text-lg text-center text-white mb-2">
-            <strong>Contact me at:</strong> manyagottipalli@gmail.com
+            <strong>Contact me at:</strong> manyagottipalli1@gmail.com
           </p>
           <p className="text-lg text-center text-white mb-6">
-            <strong>Phone no:</strong> 987654321
+            <strong>Phone no:</strong> 8121094325
           </p>
 
           <form className="space-y-6" onSubmit={handleSubmit}>
